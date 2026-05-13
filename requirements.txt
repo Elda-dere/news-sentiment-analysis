@@ -11,9 +11,4 @@ yfinance
 scipy
 statsmodels
 pytest
-black
-
-jupyter
-notebook
-ipykernel
 
