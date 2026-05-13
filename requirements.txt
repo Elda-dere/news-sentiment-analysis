@@ -17,4 +17,3 @@ jupyter
 notebook
 ipykernel
 
-pywinpty; platform_system=="Windows"
