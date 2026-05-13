@@ -2,5 +2,26 @@ numpy
 pandas
 matplotlib
 seaborn
+plotly
+
 scikit-learn
+scipy
+statsmodels
+
 nltk
+textblob
+vaderSentiment
+
+yfinance
+TA-Lib
+pynance
+
+jupyter
+notebook
+ipykernel
+ipython
+
+pytest
+black
+
+pywinpty; platform_system=="Windows"
