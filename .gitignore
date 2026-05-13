@@ -1,0 +1,10 @@
+# Create .gitignore file
+@"
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+data/raw/*.csv
+.vscode/
+"@ | Out-File -FilePath .gitignore -Encoding utf8
