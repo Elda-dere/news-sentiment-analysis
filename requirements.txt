@@ -2,10 +2,6 @@ numpy
 pandas
 matplotlib
 seaborn
-jupyter
-notebook
-ipykernel
-ipython
 scikit-learn
 nltk
 textblob
@@ -16,3 +12,9 @@ scipy
 statsmodels
 pytest
 black
+
+jupyter
+notebook
+ipykernel
+
+pywinpty; platform_system=="Windows"
